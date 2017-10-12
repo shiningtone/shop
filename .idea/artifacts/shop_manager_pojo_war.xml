@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shop-manager-pojo:war">
+    <output-path>$PROJECT_DIR$/shop-manager-pojo/target</output-path>
+    <root id="archive" name="shop-manager-pojo.war">
+      <element id="artifact" artifact-name="shop-manager-pojo:war exploded" />
+    </root>
+  </artifact>
+</component>
